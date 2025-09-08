@@ -55,6 +55,5 @@ public class Main {
             System.out.println("Curso: " + curso.getNombre());
             System.out.println("Cantidad de alumnos: " + curso.getListaDeEstudiantes().size());
         }
-        System.out.println(curso1);
     }
 }
